@@ -1,0 +1,5 @@
+C:\Users\ericl\Desktop\Prosjekter\Moteplanlegger CLI Applikasjon\Moteplanlegger CLI Applikasjon\obj\Debug\net8.0\Moteplanlegger CLI Applikasjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericl\Desktop\Prosjekter\Moteplanlegger CLI Applikasjon\Moteplanlegger CLI Applikasjon\obj\Debug\net8.0\Moteplanlegger CLI Applikasjon.AssemblyInfoInputs.cache
+C:\Users\ericl\Desktop\Prosjekter\Moteplanlegger CLI Applikasjon\Moteplanlegger CLI Applikasjon\obj\Debug\net8.0\Moteplanlegger CLI Applikasjon.AssemblyInfo.cs
+C:\Users\ericl\Desktop\Prosjekter\Moteplanlegger CLI Applikasjon\Moteplanlegger CLI Applikasjon\obj\Debug\net8.0\Moteplanlegger CLI Applikasjon.csproj.CoreCompileInputs.cache
+C:\Users\ericl\Desktop\Prosjekter\Moteplanlegger CLI Applikasjon\Moteplanlegger CLI Applikasjon\obj\Debug\net8.0\Moteplanlegger CLI Applikasjon.csproj.AssemblyReference.cache
